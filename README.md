@@ -34,4 +34,3 @@ A Language Model fine-tuned for medical applications, progressing from pretraini
   - Compare against established medical NLP models
   - Evaluate on standardized medical QA datasets
   - Assess performance on clinical decision support tasks
-  - Measure bias and fairness in medical contexts
