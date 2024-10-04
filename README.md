@@ -2,8 +2,6 @@
 
 A Language Model fine-tuned for medical applications, progressing from pretraining to instruction fine-tuning and Direct Preference Optimization (DPO).
 
-Inspired by [Sebastian Raschka](https://github.com/rasbt)
-
 ## Datasets
 
 1. Pretraining: [Medical Text Dataset](https://www.kaggle.com/datasets/chaitanyakck/medical-text) (Kaggle)
