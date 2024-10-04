@@ -11,11 +11,11 @@ A Language Model fine-tuned for medical applications, progressing from pretraini
 
 1. **Pretraining**
    - Custom GPT model on medical texts
-   - 2 epochs, AdamW optimizer
+   - AdamW optimizer
 
 2. **Instruction Fine-tuning**
    - Used LitGPT for LoRA fine-tuning
-   - 3 epochs on instruction dataset
+   - instruction dataset
 
 3. **Direct Preference Optimization (DPO)**
    - Generated variants using fine-tuned model
