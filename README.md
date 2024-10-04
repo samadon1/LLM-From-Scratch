@@ -29,23 +29,9 @@ Inspired by [Sebastian Raschka](https://github.com/rasbt)
 - Progression from general language model to instruction-following
 - Experiment with preference optimization
 
-## Usage
-
-```bash
-# Pretraining
-python pretrain.py
-
-# Fine-tuning
-python finetune.py
-
-# DPO
-python dpo_train.py
-```
-
 ## Future Work
 
 - Larger medical datasets
 - Advanced DPO techniques
 - Multi-task learning in medical domain
 
-[Add license information here]
